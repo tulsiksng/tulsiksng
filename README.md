@@ -1,8 +1,8 @@
 ### I am Tulsi Jain. Please scroll through to know me 👋
 
-## In single line I say "I am a Developer" about me!
+## In single line I say "I am a Coder" about me!
 -  My Goals: To contribute to society 
--  Currently I have started with open source contribution
+-  Currently exploring ways and a nice project for open source contribution
 -  Want to be a job creator in future
 
 ### Connect with me:
@@ -28,5 +28,5 @@
 
 
 [linkedin]: https://linkedin.com/in/tulsi-jain-43508553/
-[website]: http://tulsijain.info
+[website]: https://www.tulsijain.info
 
