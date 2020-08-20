@@ -23,8 +23,8 @@
 
 
 ---
-
-<img align="left" alt="tulsi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tulsiksng&show_icons=true&hide_border=true" />
+<!--.
+<img align="left" alt="tulsi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tulsiksng&show_icons=true&hide_border=true" />-->
 
 
 [linkedin]: https://linkedin.com/in/tulsi-jain-43508553/
